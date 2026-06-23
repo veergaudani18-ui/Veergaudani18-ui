@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Veergaudani!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Educator+%26+Mentor;Open+Source+Enthusiast" alt="Typing SVG" />
